@@ -1,0 +1,7 @@
+# binaries
+/bin/
+*.exe
+# env & secrets
+.env
+# os
+.DS_Store
